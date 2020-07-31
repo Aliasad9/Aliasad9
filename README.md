@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I am Ali Asad 👋
+
+<p> Having passion for solving problems :computer: and learning new technologies :zap:. I love automating :rocket: boring and tedious tasks. Continuously exploring new stuff and enjoying the process. </p>
+<h5>What I have worked on:</h5>
+<img src=""/>
 
 <!--
 **Aliasad9/Aliasad9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
